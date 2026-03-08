@@ -1,1 +1,2 @@
-# TTT4275_EDC
+# TTT4275 Estimation, Detection and Classification
+Solutions to assignments and lab work.
